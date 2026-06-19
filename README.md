@@ -102,3 +102,4 @@ class Miruamel:
 <img src="https://raw.githubusercontent.com/miruamelizabethelrathvonalwood-eng/miruamelizabethelrathvonalwood-eng/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
+
