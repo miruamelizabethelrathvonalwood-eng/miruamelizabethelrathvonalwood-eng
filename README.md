@@ -68,7 +68,7 @@ class Miruamel:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=miruamelizabethelrathvonalwood-eng&theme=onedark&no-frame=true&no-bg=false&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=miruamel&theme=onedark&no-frame=true&no-bg=false&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
