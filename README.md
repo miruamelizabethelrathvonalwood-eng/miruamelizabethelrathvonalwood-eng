@@ -64,11 +64,11 @@ class Miruamel:
 
 ---
 
-### 🏆 Trophies
+### 🏆 Stats
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=miruamel&theme=onedark&no-frame=true&no-bg=false&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=miruamel&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=6C63FF&icon_color=A855F7)
 
 </div>
 
